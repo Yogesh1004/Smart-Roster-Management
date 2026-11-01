@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment & OS
+.env
+.DS_Store
+Thumbs.db
+
+# Database (optional to commit or exclude, keeping sample_data.py to recreate)
+# roster.db
